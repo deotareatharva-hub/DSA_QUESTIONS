@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0283-move-zeroes](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
