@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +56,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0189-rotate-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
