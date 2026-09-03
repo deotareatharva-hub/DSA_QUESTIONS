@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0704-binary-search/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,8 +71,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
