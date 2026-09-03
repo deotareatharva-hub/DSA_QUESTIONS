@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0189-rotate-array/) | Medium |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
