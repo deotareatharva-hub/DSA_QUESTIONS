@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0704-binary-search/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/0229-majority-element-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/deotareatharva-hub/DSA_QUESTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
